@@ -11,7 +11,6 @@
 
 // -----------------------------------------------------------------------------
 // GLOBAL VARIABLES
-// This is nice to define and use a color pallete on your software. You can put this information on another utility file.
 static vec3  base_colors[] = {
 	vec3(0.0, 0.0, 0.0),  	// Black
 	vec3(1.0, 1.0, 1.0),  	// White

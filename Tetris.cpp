@@ -5,10 +5,6 @@
 * Ref: from Lab tutorial (Gasket)
 * Last modified on: 21 Feb 2018
 * Author: Tu Dat Nguyen
-* Comment:
-	- General: code needs improving: refactor, restructure to classes (Tile, Game)
-	- better solution for all window sizes
-	- needs work with scale on coordinate system
 */
 
 #include "Angel.h"
